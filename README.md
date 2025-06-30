@@ -87,15 +87,6 @@ Some notes and case studies may still be under development. Contributions or sug
 
 ---
 
-## ⚖️ License
-
-This project is licensed under the **GNU AGPLv3 License**.  
-See [`LICENSE`](./LICENSE) for details.
-
-© 2025 ngvuthdanh. All rights reserved.
-
----
-
 ## ❗ Disclaimer
 
 All content in this repository is for **educational purposes only**.  
@@ -109,6 +100,17 @@ See [`DISCLAIMER.md`](./DISCLAIMER.md) for full terms.
 
 ## ✍️ Author
 
-**Thành Danh** – Cybersecurity Student & Red Team Learner  
-GitHub: [@ngvuthdanh](https://github.com/ngvuthdanh)  
-Email: `ngvu.thdanh@gmail.com`
+**Thành Danh** – Pentester & Cybersecurity Research  
+
+GitHub: [@ngvtdanhh](https://github.com/ngvtdanhh)  
+
+Email: ngvu.thdanh@gmail.com
+
+---
+
+## 📄 License
+
+This project is licensed under the terms of the **GNU AGPL v3.0**.  
+See [`LICENSE`](./LICENSE) for full details.
+
+© 2025 ngvtdanhh. All rights reserved.

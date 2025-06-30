@@ -6,7 +6,7 @@ This repository documents my learning and practice from the **"Ethical Hacking â
 
 ## ðŸ“œ Certificate
 
-![Ethical Hacking Certificate](./cert/certificate-ethical-hacking-learning.png)
+![Ethical Hacking Certificate](./cert/certificate-ethical-hacking-learning.pdf)
 
 ---
 

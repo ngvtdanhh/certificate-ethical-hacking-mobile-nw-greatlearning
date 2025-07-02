@@ -1,5 +1,12 @@
 # 📱 Ethical Hacking – Mobile Platforms & Network Architecture
 
+![Course](https://img.shields.io/badge/GreatLearning-Certified-brightgreen?style=flat-square&logo=academia)
+![Status](https://img.shields.io/badge/Status-Completed-blue?style=flat-square&logo=verizon)
+![Scope](https://img.shields.io/badge/Focus-Mobile%20&%20Telecom-red?style=flat-square&logo=signal)
+![Type](https://img.shields.io/badge/Type-Self--Study-orange?style=flat-square&logo=openaccess)
+![Author](https://img.shields.io/badge/Maintainer-Thành%20Danh-blueviolet?style=flat-square&logo=github)
+
+
 This repository documents my learning and practice from the **"Ethical Hacking – Mobile Platforms and Network Architecture"** course by [Great Learning](https://www.mygreatlearning.com/). It includes course notes, security analysis, practice demos, screenshots, and certificate.
 
 ---

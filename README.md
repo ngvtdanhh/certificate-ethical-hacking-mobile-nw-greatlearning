@@ -111,6 +111,7 @@ By using any material or code provided here, you agree to the following:
 
 See full disclaimer here: [DISCLAIMER.md](./DISCLAIMER.md)
 
+---
 
 ## ✍️ Author
 

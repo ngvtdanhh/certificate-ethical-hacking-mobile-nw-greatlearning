@@ -1,95 +1,96 @@
-# 🧠 Cybersecurity Fundamentals – IBM SkillsBuild
+# 📱 Ethical Hacking – Mobile Platforms & Network Architecture
 
-![Course](https://img.shields.io/badge/IBM-SkillsBuild-Certified-brightgreen?style=flat-square&logo=ibm)
+![Course](https://img.shields.io/badge/GreatLearning-Certified-brightgreen?style=flat-square&logo=academia)
 ![Status](https://img.shields.io/badge/Status-Completed-blue?style=flat-square&logo=verizon)
-![Scope](https://img.shields.io/badge/Scope-Cybersecurity%20Basics-red?style=flat-square&logo=fortinet)
-![Type](https://img.shields.io/badge/Type-Self--Paced-orange?style=flat-square&logo=openaccess)
+![Scope](https://img.shields.io/badge/Focus-Mobile%20&%20Telecom-red?style=flat-square&logo=signal)
+![Type](https://img.shields.io/badge/Type-Self--Study-orange?style=flat-square&logo=openaccess)
 ![Author](https://img.shields.io/badge/Maintainer-Thành%20Danh-blueviolet?style=flat-square&logo=github)
 
-This repository documents my structured learning from the **Cybersecurity Fundamentals** course by [IBM SkillsBuild](https://skillsbuild.org). It includes organized notes, demo exercises, career guidance, screenshots, and my official certificate of completion.
+
+This repository documents my learning and practice from the **"Ethical Hacking – Mobile Platforms and Network Architecture"** course by [Great Learning](https://www.mygreatlearning.com/). It includes course notes, security analysis, practice demos, screenshots, and certificate.
 
 ---
 
 ## 📜 Certificate
 
-- 🎓 [Cybersecurity Fundamentals – IBM SkillsBuild](./cert/ibm-cybersecurity-certificate.pdf)
+-  🧠 [Ethical Hacking Mobile Network Certificate](./cert/certificate-ethical-hacking-learning.pdf)
 
 ---
 
 ## 📒 Topics Covered
 
-- 🌐 Networking & Internet basics  
-- 🔐 Security Principles & CIA triad  
-- 🧑‍💻 Threats & Attack Types  
-- 🛡️ Risk Management & Countermeasures  
-- 📄 Legal, Ethics, and Compliance
+- 📱 Mobile device vulnerabilities
+- 📶 Wi-Fi & GSM attack surfaces
+- 🧪 Mobile app exploitation
+- 🛡️ Defense techniques (App hardening, VPNs)
+- 🧠 Threat modeling and case studies
 
 ---
 
-## 📂 Repository Structure
+## 📂 Structure
 
-| Folder / File             | Description |
-|---------------------------|-------------|
-| `notes/`                  | Topic-based course notes (Markdown) |
-| `demo/`                   | Command-line & conceptual demos |
-| `screenshots/`            | Visual overview from course content |
-| `cert/`                   | Official certificate of completion |
-| `career-path.md`          | Post-course career planning & role mapping |
-| `DISCLAIMER.md`           | Responsible use notice |
-| `LICENSE`                 | Project license (GNU AGPLv3) |
+| Folder | Description |
+|--------|-------------|
+| `notes/` | Course notes by topic |
+| `demo/` | Scripts, simulated attacks, or configs |
+| `analysis/` | Advanced security modeling and use cases |
+| `screenshots/` | Lab screenshots, slides, proof |
+| `cert/` | Certificate of course completion |
+| `LICENSE` | AGPLv3 license details |
 
 ---
 
 ## 📘 Notes
 
-- [`networking-basics.md`](./notes/networking-basics.md)  
-- [`cybersecurity-principles.md`](./notes/cybersecurity-principles.md)  
-- [`types-of-threats.md`](./notes/types-of-threats.md)  
-- [`defense-mechanisms.md`](./notes/defense-mechanisms.md)  
-- [`cyber-law-and-ethics.md`](./notes/cyber-law-and-ethics.md)
+- [`mobile-platform-threats.md`](./notes/mobile-platform-threats.md)
+- [`telecom-architecture.md`](./notes/telecom-architecture.md)
+- [`wifi-attacks.md`](./notes/wifi-attacks.md)
+- [`countermeasures.md`](./notes/countermeasures.md)
 
 ---
 
-## 💻 Demos
+## 💻 Demo
 
-- [`threat-identification-example.md`](./demo/threat-identification-example.md)  
-- [`firewall-rules-basics.md`](./demo/firewall-rules-basics.md)  
-- [`phishing-analysis.md`](./demo/phishing-analysis.md)  
-- [`vuln-assessment-checklist.md`](./demo/vuln-assessment-checklist.md)
+- [`rogue-ap-attack.md`](./demo/rogue-ap-attack.md)
+- [`mitmproxy-wifi-intercept.md`](./demo/mitmproxy-wifi-intercept.md)
+- [`imsi-catcher-theory.md`](./demo/imsi-catcher-theory.md)
 
 ---
 
-## 🚀 Career Path
+## 🔎 Advanced Analysis
 
-- [`career-path.md`](./career-path.md) — Breakdown of roles, tools, labs, and future certifications after completing this course.
+- [`threat-model.md`](./analysis/threat-model.md) – STRIDE model on mobile/Wi-Fi threats
+- [`redteam-playbook.md`](./analysis/redteam-playbook.md) – Red Team checklist for field testing
+- [`case-study.md`](./analysis/case-study.md) – Real-world examples of network/mobile exploitation
 
 ---
 
 ## 📸 Screenshots
 
-| Description             | Image |
-|--------------------------|-------|
-| 🧠 Learning Modules      | ![](./screenshots/ibm-modules.png) |
-| 📚 Course Overview       | ![](./screenshots/ibm-learning.png) |
-| ⭐ Learner Rating        | ![](./screenshots/ibm-rating.png) |
-| 🏷️ Certification Tag     | ![](./screenshots/ibm-tag.png) |
+| Description | Screenshot |
+|-------------|------------|
+| 📜 Learning Overview | ![](./screenshots/certificate-ethical-hacking-learning.png) |
 
 ---
 
 ## 📝 Course Review
 
-This IBM SkillsBuild course gives a strong foundation in the cybersecurity landscape. It is designed for beginners and career switchers looking to understand threats, defenses, and industry practices.
+This course provides a strong foundation in ethical hacking, specifically targeting mobile platforms and telecom infrastructure. It blends theory with modern, relevant attack surfaces and includes defensive considerations.
 
-### ✅ What I Liked
+✅ **What I liked**:
+- Focused content on mobile security and telecom systems
+- Easy-to-understand yet practical examples
+- Great primer for anyone aiming for mobile Red Teaming
 
-- Structured, beginner-friendly content  
-- Industry-aligned terminology and best practices  
-- Free, self-paced access with certification
+📌 **To Improve**:
+- More hands-on labs or capture-the-flag (CTF)-style challenges
+- Deeper Android/iOS app reverse engineering sections
 
-### 📌 What Could Be Improved
+---
 
-- Lacks hands-on labs or simulations  
-- Needs more real-world case examples
+## 🛠️ In Process
+
+Some notes and case studies may still be under development. Contributions or suggestions welcome.
 
 ---
 
@@ -98,19 +99,18 @@ This IBM SkillsBuild course gives a strong foundation in the cybersecurity lands
 All content in this repository is for **educational purposes only**.  
 By using any material here, you agree:
 
-- Not to apply any technique on unauthorized systems  
-- That the author holds no responsibility for misuse  
-- To use these resources ethically and legally  
+- Not to apply any technique on unauthorized systems
+- That the author holds no responsibility for misuse
+- To use these resources ethically and legally
 
 See [`DISCLAIMER.md`](./DISCLAIMER.md) for full terms.
-
----
 
 ## ✍️ Author
 
 **Thành Danh** – Pentester & Cybersecurity Research  
 
 GitHub: [@ngvtdanhh](https://github.com/ngvtdanhh)  
+
 Email: ngvu.thdanh@gmail.com
 
 ---
@@ -118,6 +118,6 @@ Email: ngvu.thdanh@gmail.com
 ## 📄 License
 
 This project is licensed under the terms of the **GNU AGPL v3.0**.  
-See [`LICENSE`](./LICENSE) for full details.  
+See [`LICENSE`](./LICENSE) for full details.
 
 © 2025 ngvtdanhh. All rights reserved.

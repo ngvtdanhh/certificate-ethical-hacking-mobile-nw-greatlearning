@@ -109,7 +109,7 @@ By using any material or code provided here, you agree to the following:
 
 🔐 The author and contributors assume no liability for any damage caused by improper or illegal use.
 
-📎 See full disclaimer here: DISCLAIMER.md
+See full disclaimer here: [DISCLAIMER.md](./DISCLAIMER.md)
 
 
 ## ✍️ Author

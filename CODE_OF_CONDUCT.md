@@ -1,43 +1,62 @@
-# Contributor Covenant Code of Conduct
+# 🤝 Contributor Covenant Code of Conduct
 
 ## 🌐 Our Pledge
 
-We as contributors and maintainers of this project commit to fostering an open and respectful learning environment. We pledge to make participation in this project a harassment-free experience for everyone, regardless of their background, technical experience, gender identity, or level of cybersecurity knowledge.
+As contributors and maintainers of this project, we pledge to foster a welcoming, respectful, and harassment-free environment for everyone.  
+We are committed to creating a space where all learners—regardless of background, experience, or identity—can collaborate, ask questions, and grow together.
+
+---
 
 ## 📌 Our Standards
 
-Examples of behavior that contributes to a positive environment:
+### 💡 Positive behavior includes:
 
-- Respectful communication and constructive feedback
-- Encouraging participation and learning
-- Acknowledging the work and ideas of others
-- Being open to different approaches and perspectives
+- Using respectful and inclusive language
+- Offering constructive feedback and help
+- Recognizing the contributions of others
+- Being open to different perspectives
 
-Unacceptable behavior includes:
+### 🚫 Unacceptable behavior includes:
 
-- Personal attacks, harassment, or discriminatory language
-- Deliberate intimidation or trolling
-- Sharing exploits or code used for malicious purposes
-- Dismissing or belittling beginner questions
+- Harassment, discrimination, or personal attacks
+- Posting malicious, illegal, or exploitative content
+- Dismissing or mocking beginner-level questions
+- Sharing offensive, political, or unrelated content
+
+---
 
 ## 🛠️ Responsibilities
 
-Project maintainers are responsible for ensuring compliance with this Code of Conduct and addressing inappropriate behavior in a fair and consistent manner.
+Maintainers are responsible for enforcing this Code of Conduct fairly and consistently.  
+They will review and investigate reported violations and take appropriate action.
+
+---
 
 ## 🧾 Scope
 
-This Code of Conduct applies to all project spaces—issues, pull requests, discussions, and social platforms—when interacting under the name of this repository.
+This Code applies to all project spaces and related communities:
 
-## 🚨 Enforcement
+- GitHub repositories (issues, pull requests, discussions)
+- Any communication or contribution under the project’s name
 
-Violations can be reported directly to the maintainer:
+---
 
-- **Email**: ngvu.thdanh@gmail.com  
-- **GitHub**: [@ngvtdanhh](https://github.com/ngvtdanhh)
+## 🚨 Reporting
 
-All reports will be handled confidentially and seriously.
+If you witness or experience unacceptable behavior, please report it to the maintainer directly:
+
+- 📧 Email: ngvu.thdanh@gmail.com  
+- 🧑‍💻 GitHub: [@ngvtdanhh](https://github.com/ngvtdanhh)
+
+All reports will be handled confidentially and professionally.
+
+---
 
 ## 📄 Attribution
 
-This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org), version 2.1, available at  
-[https://www.contributor-covenant.org/version/2/1/code_of_conduct.html](https://www.contributor-covenant.org/version/2/1/code_of_conduct.html)
+This Code of Conduct is based on the [Contributor Covenant](https://www.contributor-covenant.org), version 2.1.  
+[Read the original version](https://www.contributor-covenant.org/version/2/1/code_of_conduct.html)
+
+---
+
+© 2025 ngvtdanhh – Cybersecurity Knowledge Sharing Project.

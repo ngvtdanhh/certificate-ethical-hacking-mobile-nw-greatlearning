@@ -1,6 +1,6 @@
 # 📱 Ethical Hacking – Mobile Platforms & Network Architecture
 
-![Course](https://img.shields.io/badge/Simplilearn-Kali%20Linux%20Basics-Completed-red?style=flat-square&logo=book)
+![Course](https://img.shields.io/badge/GreatLearning-Ethical%20Hacking%20(Mobile%20%26%20Network)-completed-red?style=flat-square&logo=book)  
 ![Status](https://img.shields.io/badge/Status-Completed-blue?style=flat-square&logo=verizon)
 ![Scope](https://img.shields.io/badge/Focus-Mobile%20&%20Telecom-red?style=flat-square&logo=signal)
 ![Type](https://img.shields.io/badge/Type-Self--Study-orange?style=flat-square&logo=openaccess)
